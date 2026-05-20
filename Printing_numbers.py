@@ -1,7 +1,5 @@
 x=10
 y=0
 while(x>0):
- y+=1
- print(y)
- 
+ print("Learning python")
  x-=1
